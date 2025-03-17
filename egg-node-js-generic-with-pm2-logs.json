@@ -10,7 +10,7 @@
     "description": "a generic node.js with pm2 egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.\r\n\r\nThis website official pm2 is https://pm2.io/",
     "features": null,
     "docker_images": {
-        "Node.js 20 with pm2 logs": "rifqibotz/nodepm2:20"
+        "Node.js 20 with pm2 logs": "rifqibotz/nodepm2:20",
         "Node.js 19 with pm2 logs": "ghcr.io/danelsonic123/nodejspm2:19",
         "Node.js 18 with pm2 logs": "ghcr.io/danelsonic123/nodejspm2:18",
         "Node.js 16 with pm2 logs": "ghcr.io/danelsonic123/nodejspm2:16",
